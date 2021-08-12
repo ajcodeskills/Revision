@@ -1,0 +1,26 @@
+.container{
+    width: 1000px;
+    margin-left: 40px;
+    padding: 10px;
+    border: 1px solid blue;
+}
+.reply {
+    margin-left:40px;
+
+}
+.replyContainer {
+    margin-left: 40px;
+    padding: 0 10px;
+    border-left: 2px solid black;
+}
+p{
+    color: grey;
+}
+.nextReply {
+    margin-left:40px;
+}
+span {
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+}
